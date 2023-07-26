@@ -1,0 +1,3 @@
+Ejercicio 2: Manipulación de archivos
+
+Escribe una función en Node.js que lea el contenido de un archivo de texto llamado "datos.txt" y muestre su contenido por la consola.
