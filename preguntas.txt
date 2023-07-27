@@ -1,0 +1,21 @@
+Parte 1: Preguntas Teóricas
+
+-Explica brevemente qué es Node.js y en qué se diferencia de otras tecnologías de servidor.
+
+    R: Node.js es el entorno de ejecucuion para serbidores basados en lenguaje de programación JavaScript, es utilizado mayormente como backend en servidores web.
+
+-Menciona tres ventajas principales de usar Node.js en comparación con otros entornos de servidor.
+
+    R: Proporciona características básicas para construir y desplegar aplicaciones en tiempo real y en red utilizando la API de eventos. permite manejar una alta concurrencia y un gran número de solicitudes simultáneas de manera eficiente. 
+
+-¿Qué es npm? ¿Para qué se utiliza en el desarrollo de aplicaciones Node.js?
+
+    R: Es un sistema de que gestiona paquete, nos permite a los desarrolladores puedan accedeer y compartir paquetes para node.js.
+
+-Describe el concepto de "callback" en Node.js y su relevancia en la programación asincrónica.
+
+    R: La arquitectura asincrónica basada en eventos garantiza una multitarea más eficiente, lo cual se traduce en una velocidad superior en las aplicaciones. El callback es  una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción, en otras palabras  es una funcion que se pasa como argumento  a otra función y se ejecuta después de completarse una operación.
+
+-¿Qué son los módulos en Node.js? Proporciona un ejemplo de cómo puedes importar y utilizar un módulo en una aplicación.
+
+    R: Son paquetes que permiten funcionalidades especiales en el leguaje JavaScript, se busva en la pagina de npm  y se instala siguiendo los pasos que proporciona la pagina.  un ejemplo de ello puede ser $ npm install axios , axios nos permite realizar solicitudes HTTP. estos comandos se ingresan en la terminal.

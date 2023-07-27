@@ -1,4 +1,4 @@
-// Ejercicio 3 (Utilice una api de rick and morty para la peticion)
+// Ejercicio 3 (Utilice una api de rick and morty para la petición)
 
 const axios = require("axios");
 
